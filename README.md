@@ -1,9 +1,6 @@
-A smart AI system that detects your facial emotion in real-time using a webcam and recommends music to match your mood 🎭🎶. Built with Python, OpenCV, and a CNN model trained on FER-2013. Get ready for mood-based music vibes — from sad to happy, angry to chill. Plug-n-play &amp; future-ready! 🚀
-
-
 ## 🎭 Facial Emotion Detection & 🎵 Music Recommendation System  
 *Bringing AI & Emotions Together to Make Your Day Better!*
-
+A smart AI system that detects your facial emotion in real-time using a webcam and recommends music to match your mood 🎭🎶. Built with Python, OpenCV, and a CNN model trained on FER-2013. Get ready for mood-based music vibes — from sad to happy, angry to chill. Plug-n-play &amp; future-ready! 🚀
 
 ## 🌟 What’s This About?
 
